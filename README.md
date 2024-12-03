@@ -5,7 +5,7 @@ Solutions for the Advent of Code 2024.
 Progress:
 - [x] Day 1
 - [x] Day 2
-- [ ] Day 3
+- [x] Day 3
 - [ ] Day 4
 - [ ] Day 5
 - [ ] Day 6
